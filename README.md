@@ -1,5 +1,17 @@
 # React + Vite
 
+This is a project to study about React using Vite instructed by [Fernando Belotto](https://github.com/fernandobelotto).
+
+In this project you can see study of topics:
+
+* Components and Props
+* State and Events
+* Conditional rendering
+* Lists and Keys
+* Side effects
+* Search with fetch
+* Stylization with classes and CSS modules
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
